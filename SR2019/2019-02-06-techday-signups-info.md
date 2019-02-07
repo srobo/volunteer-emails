@@ -1,7 +1,7 @@
-```
+---
 subject: Tech Day Info
 to: Volunteers who signed up on the tech day helping sheet.
-```
+---
 
 Hi,
 
@@ -15,9 +15,9 @@ If you're available to visit the Southampton tech day, the details are available
 
 Here's some extra info specific for volunteers:
 
-If convenient, arrive at 9am for set-up. If you're making it for set-up, meet at the [Mountbatten Building][mountbatten], top floor seminar room. To be let into the building, call <Anton's number>.
+If convenient, arrive at 9am for set-up. If you're making it for set-up, meet at the [Mountbatten Building][mountbatten], top floor seminar room. To be let into the building, call Anton on <Anton's number>.
 
-We're about to announce a venue change (to a different building on the same campus), so please check the on-campus directions PDF in the evening to get the new location.
+If you arrive after 10am, make your way to the same building, and head to the labs on level 2 (phone Anton for directions)
 
 It would be great to email Andy to mention you're coming: 
 <andys email>
