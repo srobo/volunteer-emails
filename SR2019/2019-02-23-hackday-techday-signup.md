@@ -12,7 +12,7 @@ There are several ways you can get involved and help out.
 
 * Come along to the preparation day in Southampton on the 2nd.
 * Come along to the tech day on the 9th where we will also be doing preparation (signup [here][techday-signup]).
-* Take on some tasks on the task list (don't worry if you don't know everything about a task just ask for any help you need).
+* Take on some tasks on the task list, make sure to post a reply on the task so we know you are working on it (don't worry if you don't know everything about a task just ask for any help you need).
 
 If you haven't [signed up for the competition][signup-form] yet there is still time to do so, we will be sending out information regarding accommodation and transport in the next couple of weeks.
 
