@@ -6,7 +6,7 @@ preview-text: We need your help to prepare for the competition.
 
 Hi,
 
-The competition is getting nearer and there are many things to do, we have a large list of [tasks][task-list] which will need doing before the competition.
+The competition is getting nearer and there are many things to do, we have a large [list of tasks][task-list] which will need doing before the competition.
 If you have some spare time and can give us a hand, your help would be much appreciated and will help us run an even better competition.
 There are several ways you can get involved and help out.
 
@@ -15,17 +15,17 @@ There are several ways you can get involved and help out.
 We will be having a preparation day in Southampton on Saturday 2nd of March where we are planning on doing a load of the tasks.
 We will be in Mountbatten (building 53) at the university on Level 4 from 10am onwards.
 There will also be a social event in the evening, to be decided during the day.
-A rough agenda for the day can be found [here][hack-day-agenda] and will be updated as more things are planned.
+There is a [rough agenda for the day][hack-day-agenda] which will be updated as more things are planned.
 
 ## Tech Day
 
 Come along to the [tech day][techday-info] on the 9th in either London or Southampton where we will also be doing preparation for the competition along with assisting competitors.
-If you are coming along let us know by signing up [here][techday-signup]).
+If you are coming along let us know by [signing up to attend][techday-signup]).
 
 ## Take on a task on the task list.
 
 You can also take on some tasks on the task list on github.
-Post a reply on the task so we know you are working on it
+Post a reply on the task so we know you are working on it,
 Don't worry if you don't know everything about a task just ask in the task for any help you need.
 
 ## Competition signups
