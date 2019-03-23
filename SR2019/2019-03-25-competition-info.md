@@ -10,7 +10,7 @@ Thank you for volunteering to help at this year's Student Robotics competition!
 
 The competition is fast approaching, so we thought it best to give you an update with everything you need to know.
 
-The competition is going to be held at Southampton University's Student Union building (SUSU) over the weekend of the 6th-7th of April, though setup will on Thursday 21th and teardown will finish on Monday 8th. When you signed up we asked for your availability over these dates if this has changed please let us know as soon as possible.
+The competition is going to be held at Southampton University's Student Union building (SUSU) over the weekend of the 6th-7th of April, though setup will start on Thursday 21th and teardown will finish on Monday 8th. When you signed up we asked for your availability over these dates if this has changed please let us know as soon as possible.
 
 If you requested accommodation on the signup form and have not heard from us about your arrangments, please let us know.
 
