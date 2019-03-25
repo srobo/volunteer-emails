@@ -12,7 +12,7 @@ The competition is fast approaching, so we thought it best to give you an update
 
 The competition is going to be held at Southampton University's Student Union building (SUSU) over the weekend of the 6th-7th of April, though setup will start on Thursday 21th and teardown will finish on Monday 8th. When you signed up we asked for your availability over these dates if this has changed please let us know as soon as possible.
 
-If you requested accommodation on the signup form and have not heard from us about your arrangments, please let us know.
+If you're expecting accommodation, and haven't been contacted by us about your room, please let us know ASAP. We'll be sending final details (i.e. location) to you soon.
 
 Parking locations at the university can be found on [the website](https://studentrobotics.org/events/sr2019/competition/#parking). Unfortunately, on the setup and teardown days, free parking cannot be guaranteed, though it will be available over the Saturday and Sunday.
 
