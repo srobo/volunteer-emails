@@ -25,6 +25,9 @@ We have made [a very short summary of the roles](REDACTED), don't worry though, 
 
 These schedules are likely to shift around between now and the competition, so make sure to check again closer to the competition (feel free to bookmark the pages). If you don't like or have questions on any of your assigned roles in any way, now's the time to speak out! Send an email to Andy at abarrett-sprot@studentrobotics.org and he'll try to cater for your preferences. Also if you're okay with commentating matches, please send him an email, as we're a bit short on commentators.
 
+## Travel
+
+We have some money set aside in the budget for reimbursing volunteer travel costs. We can't promise to reimburse everyone 100% of their costs but if you hold onto any reciepts for petrol, train tickets or other travel purchases we'll do our best to make sure everyone is reimbursed fairly.
 
 
 ## Accomodation
