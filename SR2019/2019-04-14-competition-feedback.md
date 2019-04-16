@@ -1,7 +1,7 @@
 ---
 to: Competition Volunteers
 subject: Thanks for making SR2019 awesome
-preview-text: Reclakm travel expenses and help us improve
+preview-text: Reclaim travel expenses and help us improve
 ---
 
 Hi,
