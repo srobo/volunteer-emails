@@ -8,7 +8,7 @@ Hi,
 
 A huge thank you for helping out at this year's competition, we wouldn't be able
 to make it happen without your efforts. If you'd like to be reimbursed for any
-trsvel expenses, now's the time to send in your receipts. We'd also like to hear
+travel expenses, now's the time to send in your receipts. We'd also like to hear
 how we can improve for the future.
 
 ## Travel Reimbursement
