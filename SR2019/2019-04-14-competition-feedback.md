@@ -14,8 +14,9 @@ how we can improve for the future.
 ## Travel Reimbursement
 
 In order to reimburse your travel expenses (or as much of it as we can) please
-fill in the form at <link>. The deadline for submitting your claim is
-April 30th and we will process the claims shortly after this.
+fill in the form at https://forms.gle/QJ29sJ9NqsN44M1d6. The deadline for
+submitting your claim is April 30th and we will process the claims shortly after
+this.
 
 ## Feedback
 
