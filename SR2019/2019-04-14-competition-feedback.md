@@ -24,8 +24,6 @@ In order to help us improve for the future, we'd really appreciate it if you
 could spend a few minutes providing some feedback on you feel the event went
 and what we can do to improve.
 
-In order to do that, we've prepared some feedback forms:
-
 Please fill out https://forms.gle/EgqwMHZX9FgGifUG8 to give us general feedback.
 
 It would also be excellent if you could spend some time giving feedback on each of
