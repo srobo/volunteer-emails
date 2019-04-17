@@ -1,21 +1,29 @@
 ---
 to: Competition Volunteers
 subject: Thanks for making SR2019 awesome
-preview-text: We'd like to know how we can improve for the future
+preview-text: Reclaim travel expenses and help us improve
 ---
 
 Hi,
 
 A huge thank you for helping out at this year's competition, we wouldn't be able
-to make it happen without your efforts. In order to help us improve for the
-future, we'd really appreciate it if you could spend a few minutes providing
-some feedback on you feel the event went and what we can do to improve.
+to make it happen without your efforts. If you'd like to be reimbursed for any
+travel expenses, now's the time to send in your receipts. We'd also like to hear
+how we can improve for the future.
+
+## Travel Reimbursement
+
+In order to reimburse your travel expenses (or as much of it as we can) please
+fill in the form at <link>. The deadline for submitting your claim is
+April 30th and we will process the claims shortly after this.
+
+## Feedback
+
+In order to help us improve for the future, we'd really appreciate it if you
+could spend a few minutes providing some feedback on you feel the event went
+and what we can do to improve.
 
 In order to do that, we've prepared some feedback forms:
-
-We'd really appreciate if you could use these to tell us about your experiences
-at the competition, whether you felt it all went well or there are things you
-think we need to improve.
 
 Please fill out https://forms.gle/EgqwMHZX9FgGifUG8 to give us general feedback.
 
