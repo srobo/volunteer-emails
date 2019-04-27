@@ -20,6 +20,6 @@ The meeting will be held on **Monday 29th April, 7 - 8pm**.
 To join the video meeting, click [this link](https://meet.google.com/gqd-dpsg-eaa)
 Otherwise, to join by phone, dial +1 224-585-8707 and enter this PIN: 942 218 078#
 
-There will also be a group of people joining together at Southampton University. We will be in in 53/4025.
+There will also be a group of people joining together at Southampton University, in room 53/4025.
 
 If you are unable to make it, we will be publishing minutes for the meeting afterwards.
