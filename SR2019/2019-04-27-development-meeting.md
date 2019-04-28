@@ -21,7 +21,7 @@ To join the video meeting, click [this link][gmeet]
 
 There will also be a group of people joining together at Southampton University, in room 53/4025.
 
-We realise that this is quite short notice before the meeting. Sorry, we will try to notify via all channels earlier in the future. If you are unable to make it, we will be publishing minutes for the meeting afterwards. The minutes will be found in the [SRO Minutes][sro-minutes] and also posted in `#kit-dev` in [Student Robotics Slack][slack].
+We realise that this is quite short notice before the meeting. Sorry, we will try to notify via all channels earlier in the future. If you are unable to make it, we will be publishing minutes for the meeting afterwards in [`#kit-dev`](https://studentrobotics.slack.com/messages/kit-dev) in [Student Robotics Slack][slack].
 
 [agenda]: https://hackmd.io/1zHBGaozQxyxJBvvoaeMVw
 [gmeet]: https://meet.google.com/gqd-dpsg-eaa
