@@ -18,8 +18,7 @@ spare a couple of hours you'd still be most welcome to come and help out.
 When you get to the Mountbatten building, please message `@here` in the
 [`#events`][events-channel] in Slack and someone will let you in.
 
-Thanks,
-Peter
+— _SR Core Team_
 
 If you're not currently in our Slack, you can sign up at
 https://goo.gl/forms/Maq41MHF8CYSRVn83.
