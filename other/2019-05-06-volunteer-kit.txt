@@ -1,6 +1,7 @@
 ---
 subject: Historic Student Robotics assets
 to: Volunteers with historic kit according to the inventory
+cc: core-team
 ---
 
 Hi,
