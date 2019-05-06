@@ -1,3 +1,8 @@
+---
+subject: Historic Student Robotics assets
+to: Volunteers with historic kit according to the inventory
+---
+
 Hi,
 
 As you may be aware, Student Robotics returned for SR2019. Following that, we're
