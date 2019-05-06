@@ -1,0 +1,21 @@
+Hi,
+
+As you may be aware, Student Robotics returned for SR2019. Following that, we're
+trying to ensure that our records are up to date.
+
+You're receiving this email because our inventory system [1] records that you
+hold some (possibly historic) equipment. Please could you have a look in the
+inventory (the top level folders for people are named as first initial and
+surname) and check whether you still have the items it records.
+
+Don't worry if you no longer have the items; we appreciate that it may have been
+several years since you were involved in Student Robotics.
+
+Whether or not you still have the items, please let us know so that we can
+update our records. We'll then let you know what to do with any items you still
+have.
+
+Thanks,
+Peter
+
+[1]: https://github.com/srobo/inventory/
