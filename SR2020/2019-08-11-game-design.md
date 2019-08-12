@@ -25,6 +25,6 @@ The submission deadline is the end of Sunday 1st September
     - Camera gives positional feedback of any fidutial markers in view
 
 
-After this date all submissions will be reviewed and discussed during a meeting before the game design in finalised.
+After this date all submissions will be reviewed and discussed during a meeting open to all volunteers before the game design in finalised.
 
 We look forward to looking through all your submissions!
