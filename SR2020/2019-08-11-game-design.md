@@ -22,7 +22,7 @@ The submission deadline is the end of Sunday 1st September
 **Capabilities of the robots:**
 
     - Robots are no more than 500x500x500mm at the start of the match (although may expand after the match starts)
-    - Camera gives positional feedback of any libkoki markers in view
+    - Camera gives positional feedback of any fidutial markers in view
 
 
 After this date all submissions will be reviewed and discussed during a meeting before the game design in finalised.
