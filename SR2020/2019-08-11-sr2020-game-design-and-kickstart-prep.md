@@ -13,7 +13,7 @@ There are a few different ways for you to get involved:
 
 ## The Game
 
-We are currently looking for game design ideas for this year's competition. To submit a game proposal, please email [insert appropriate email here] with a description up to about a page in length (feel free to add in diagrams if you'd like).
+We are currently looking for game design ideas for this year's competition. To submit a game proposal, please email competition-team@studentrobotics.org with a description up to about a page in length (feel free to add in diagrams if you'd like).
 
 The submission deadline is the end of Sunday 1st September.
 
