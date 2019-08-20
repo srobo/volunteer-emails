@@ -9,6 +9,17 @@ Hope you have all been enjoying the summer and are now ready to start helping wo
 
 This year, we have decoupled the effort to organise the competition (Competition Team), and the effort to develop the next generation kit (Kit Team). As such, we have a new committee and are really looking forward to getting started.
 
+Introducing the SR2020 Competition Team:
+
+- Andy Barrett-Sprot
+- Andy Busse
+- Antoine Petty
+- Hope Shaw
+- Jake Howard
+- James Seden Smith
+- Jenny Fletcher
+- Peter Law
+
 There are a few different ways for you to get involved:
 
 ## The Game
@@ -34,23 +45,15 @@ After this date all submissions will be reviewed and discussed during a meeting 
 
 We look forward to looking through all your game design submissions!
 
-## The Kit
-
-Kickstart is on the horizon and we need to prepare the kits, ensuring they're in good condition for this year's teams. We will be hosting a kit collation event or two at Southampton University in the coming weeks, and we would love to have as many of you as possible to help out.
-
-If you'd like to develop our next-generation kit, you can join the Kit Team who are responsible for maintaining and upgrading our existing SR kit. [insert contact detail for kit team?]
-
-## Other ways to help out
-
-#### Task tickets
+### Task tickets
 
 Soon, we will have a sizable bank of tasks which need to be completed, which you can [find on GitHub](https://github.com/srobo/tasks/issues). Each ticket there should have a small description of what needs to be done; and every task you can complete brings us one step closer to delivering another brilliant competition.
 
-#### Meetings
+### Meetings
 
-If you have some questions about a task you want to work on, or would just like to get a feel for what's going on, we will be opening our competition meetings for volunteers to join. The planned times will appear on [this calendar](Insert link) and you can join in our [Google Meet](https://meet.google.com/vhv-njie-age) room.
+If you have some questions about a task you want to work on, or would just like to get a feel for what's going on, we will be opening our competition meetings for volunteers to join. The planned times will appear on [this calendar](https://calendar.google.com/calendar/embed?src=studentrobotics.org_oqdjasvpps8smo0d5nte417rak%40group.calendar.google.com&ctz=Europe%2FLondon) and you can join in Google Meet using the link in the calendar event.
 
-You can also join our Slack server if you haven't already. This lets you chat with other SR volunteers and get more frequent updates on our progress.
+You can also [join our Slack server](https://goo.gl/forms/Maq41MHF8CYSRVn83) if you haven't already. This lets you chat with other SR volunteers and get more frequent updates on our progress.
 
 Here's to Student Robotics 2020!
 
