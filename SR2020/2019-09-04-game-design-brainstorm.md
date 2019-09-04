@@ -7,7 +7,7 @@ Hello!
 
 As announced in a previous email, we're starting the process of designing the game. We've already had some great suggestions, and we need to refine these into what becomes a basis for the final game.
 
-The aim in this meeting will be to form the game the robots will play, which may be one of the submissions or a combination of ideas. During the following week that discussion the chosen idea will be honed via discussion in Slack before being  formalised into rules.
+The aim in this meeting will be to form the game the robots will play, which may be one of the submissions or a combination of ideas. During the following week, the chosen idea will be honed via discussion in Slack before being formalised into rules.
 
 The brainstorming meeting will happen on Saturday 7th @ 14:00. We're hoping the meeting won't take much longer than 1.5 hours, but any time you can give is greatly appreciated!
 
