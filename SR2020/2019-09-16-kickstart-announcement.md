@@ -13,16 +13,15 @@ Kickstart is the event which starts the competition year. We invite all teams to
 
 ## When / Where is kickstart?
 
-This year we're planning to host three Kickstart events, all on Saturday 26th October:
+This year we're planning to host Kickstart in three locations, all on Saturday 26th October:
 
-- Cambridge (TBC)
-- The offices of [Thread](https://www.thread.com/)
-- The University of Southampton
+- University of Southampton
+- University of Cambridge (TBC, backup venue is elsewhere in Cambridge)
+- The offices of [Thread](https://www.thread.com/) in Central London
 
 More information for each venue can be found on [the website](https://studentrobotics.org/events). The event and locations are available on the [Volunteer Calendar](https://calendar.google.com/calendar/embed?src=studentrobotics.org_oqdjasvpps8smo0d5nte417rak%40group.calendar.google.com&ctz=Europe%2FLondon).
 
 [I want to volunteer at a kickstart event][signup-form]
-
 
 ## Tasks
 
