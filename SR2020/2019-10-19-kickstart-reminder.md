@@ -21,7 +21,7 @@ Also here are the details you need to know to help out:
 
 Kickstart is scheduled to start at 10am, but setup starts at 9am if you're around to help out.
 
-Also if you already have an SR t-shirt from last year, please bring it to ensure you have one!
+Also if you already have an SR t-shirt from a previous year (preferably from last year), please bring it to ensure you have one!
 
 The exact details on how to to go for each kickstart is as follows:
 
