@@ -20,7 +20,7 @@ We'll be hosting it simultaneously in 3 separate locations:
 
 Also here are the details you need to know to help out:
 
-Kickstart is scheduled to start at 10, but you can arrive at 9am to help with preparations if convenient.
+Kickstart is scheduled to start at 10am, but setup starts at 9am if you're around to help out.
 
 The exact details on how to to go for each kickstart is as follows:
 
