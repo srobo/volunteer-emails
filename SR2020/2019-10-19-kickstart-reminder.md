@@ -50,3 +50,5 @@ When arriving at reception, ask for Thread.
 When arriving, go to Lecture Theatre 1 (to the right when entering through reception).
 
 Thanks so much for lending your time to help out with giving students an excellent learning experience, see you at kickstart!
+
+- The SR Competition Team
