@@ -11,9 +11,22 @@ awesome. As ever, if you’d like to get involved please join us in our [Slack][
 
 ### Kickstart
 
-As you’re probably aware, Kickstart happened at the end of October. A huge
-thank-you to those who helped out, either at one of the venues or with any of
-the preparation. It’s much appreciated and helped the events run smoothly.
+As you’re probably aware, Kickstart happened at the end of October. At the
+event, which was held simultaneously in three locations, we
+[announced][game-announcement-post] this year's game to the twenty-nine teams
+who attended in person.
+
+Our game this year, _Two Colours_, challenges teams to score points by
+retrieving coloured tokens from on and around a raised platform in the centre of
+the arena. They must place these tokens within their scoring zone (i.e. their
+corner of the arena). However, if a team gathers more than one token colour
+within their scoring zone, each token's value drops from 3 points to 1 point.
+Full details, including the prizes available this year, are available in the
+[rulebook][two-colours-rules].
+
+A huge thank-you to those who helped out, either at one of the venues or with
+any of the preparation. It’s much appreciated and helped the events run
+smoothly.
 
 ### Supporting Teams
 
@@ -81,6 +94,8 @@ doing in order to make the competition happen. If you’d like to get involved
 
 [slack]: https://studentrobotics.slack.com
 [slack-signup]: https://goo.gl/forms/Maq41MHF8CYSRVn83
+[game-announcement-post]: https://studentrobotics.org/news/2019-10-26-sr2020-kickstart-and-rules-published/
+[two-colours-rules]: https://studentrobotics.org/docs/resources/2020/rulebook.pdf
 [london-tech-day]: https://studentrobotics.org/events/sr2020/london-tech-day-november/
 [tech-day-signup]: https://forms.gle/isHzxAkd7HKKFWGR9
 [mentoring-signup]: https://forms.gle/YHWniHWhuhvBbqg79
