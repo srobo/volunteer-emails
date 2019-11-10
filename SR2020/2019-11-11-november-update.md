@@ -36,10 +36,10 @@ Mentoring in order to support the teams as they build their robots.
 #### Tech Days
 
 Tech Days are fairly casual events we host for the teams to spend a day working
-on their robots surrounded by volunteers and other teams. They are and are a
-great opportunity to meet and work with other volunteers as well as see how the
-teams are progressing. Tech Days are all day events (usually on a Saturday),
-though if you can only make a part of the day that’s fine.
+on their robots surrounded by volunteers and other teams. They are a great
+opportunity to meet and work with other volunteers as well as see how the teams
+are progressing. Tech Days are all day events (usually on a Saturday), though if
+you can only make a part of the day that’s fine.
 
 There’s no need to worry if you don’t know much about the kit or the robots --
 Tech Days are a great place to learn about both by working alongside other
