@@ -13,14 +13,14 @@ awesome. As ever, if you’d like to get involved please join us in our [Slack][
 
 As you’re probably aware, Kickstart happened at the end of October. At the
 event, which was held simultaneously in three locations, we
-[announced][game-announcement-post] this year's game to the twenty-nine teams
+[announced][game-announcement-post] this year’s game to the twenty-nine teams
 who attended in person.
 
 Our game this year, _Two Colours_, challenges teams to score points by
 retrieving coloured tokens from on and around a raised platform in the centre of
 the arena. They must place these tokens within their scoring zone (i.e. their
 corner of the arena). However, if a team gathers more than one token colour
-within their scoring zone, each token's value drops from 3 points to 1 point.
+within their scoring zone, each token’s value drops from 3 points to 1 point.
 Full details, including the prizes available this year, are available in the
 [rulebook][two-colours-rules].
 
