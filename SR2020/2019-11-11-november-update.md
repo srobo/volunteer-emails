@@ -83,6 +83,6 @@ doing in order to make the competition happen. If you'd like to get involved
 [slack-signup]: https://goo.gl/forms/Maq41MHF8CYSRVn83
 [london-tech-day]: https://studentrobotics.org/events/sr2020/london-tech-day-november/
 [tech-day-signup]: https://forms.gle/isHzxAkd7HKKFWGR9
-[mentoring-signup]: https://forms.gle/isHzxAkd7HKKFWGR9
+[mentoring-signup]: https://forms.gle/YHWniHWhuhvBbqg79
 [mentor-guidance]: https://srobo.github.io/runbook/volunteering/mentor-guidance/
 [teams-map]: https://drive.google.com/a/studentrobotics.org/open?id=1vEwB5vYNA-KJDnatYtwm7qD9Ewkccd9u
