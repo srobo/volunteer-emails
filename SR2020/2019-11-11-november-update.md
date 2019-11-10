@@ -74,6 +74,9 @@ time, though we won’t ask you to travel further than you feel comfortable.
 If you’d like to get a feel for whether there are any teams near you that you
 might be able to visit, we have a [map of competing teams][teams-map].
 
+Alternatively, some teams will be too far away to visit in person. For those
+teams we would like to be able to provide remote mentoring via video calls.
+
 **[Sign up to mentor a team][mentoring-signup]**.
 
 ### Competition Planning
