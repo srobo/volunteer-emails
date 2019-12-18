@@ -19,6 +19,8 @@ We need some enthusiastic volunteers to help inspire the younger generation, and
 
 ## Tech Days in 2020
 
+Tech Days are opportunities for teams to spend a whole day working on their robot with lots of help available. They’re also an opportunity to see how other teams are doing or get more direct help with your robots.
+
 We have now confirmed the dates of some of the Tech Days in 2020.
 These will be in Thread's offices at 1 Alie Street in London, on the following
 Saturdays next year:
