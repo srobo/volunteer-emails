@@ -13,7 +13,7 @@ In short, we, the Kit Team, provide the "kit as a service" to the other half of 
 
 ## How can I get involved?
 
-We've only existed since the beginning of this academic year, and we are now looking to grow beyond just being a committee of 5!  We've split our activites up into several 'project teams'.  You can read about the different teams that we are planning on having [here], but for now we are starting with the support, infrastructure and assets teams.  If you would like to join one of these teams, please fill in [this form] and we will get back to you as soon as we can.
+We've only existed since the beginning of this academic year, and we are now looking to grow beyond just being a committee of 5!  We've split our activities up into several 'project teams'.  You can read about the different teams that we are planning on having [here], but for now we are starting with the Support, Infrastructure and Assets teams.  If you would like to join one of these teams, please fill in [this form] and we will get back to you as soon as we can.
 
 ## Why should I get involved?
 
