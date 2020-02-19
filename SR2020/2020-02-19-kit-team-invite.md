@@ -17,7 +17,7 @@ We've only existed since the beginning of this academic year, and we are now loo
 
 ## Why should I get involved?
 
-By joining one of our project teams, you will be helping competition participants access and use the kit.  In the process you'll develop your own team-working, management and logistical skills, as well as seeing your efforts rewarded by a plethora of interesting robots built by teams.
+By joining one of our project teams, you will be helping competitors access and use the kit to learn engineering skills and ultimately build their robot. In the process you'll develop your own team-working, management and logistical skills, as well as seeing your efforts rewarded by a plethora of interesting robots built by teams.
 
 ## What's expected of me?
 
