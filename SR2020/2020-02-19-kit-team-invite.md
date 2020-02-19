@@ -9,7 +9,7 @@ Are you interested in helping to develop, maintain or support the Student Roboti
 
 ## What is the Kit Team?
 
-In short, we, the Kit Team, provide the "kit as a service" to the other half of Student Robotics -- the Competition Team.  You can read more about what the kit team is and our mission [here].
+In short, we, the Kit Team, provide the "kit as a service" to the other half of Student Robotics -- the Competition Team.  You can read more about what the kit team is and our mission [here](https://srobo.github.io/kitbook/kit-team/).
 
 ## How can I get involved?
 
