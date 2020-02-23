@@ -19,9 +19,7 @@ Please sign up if you fancy coming: https://forms.gle/foHy82uY98wiPm587
 
 ## Helping with Tech Days
 
-Tech Days are opportunities for teams to spend a whole day working on their robot with lots of help available from us. They’re also an opportunity to meet and get to know other volunteers.
-
-We provide a space for you to work in, with power and internet access, as well as volunteers able to help you with your kits and hands-on guidance with your robots.
+Tech Days are opportunities for teams to spend a whole day working on their robot with lots of help available from us. They’re also an opportunity for us, as volunteers, to meet and get to know other people who volunteer with the competition.
 
 The next tech days coming up will be on:
 
