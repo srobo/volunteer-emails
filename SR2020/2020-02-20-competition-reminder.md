@@ -11,7 +11,7 @@ Quick update on the volunteering opportunities:
 
 The dates will be April 18th - 19th, with set-up days on the 17th and 16th if you’re available! The venue is RUSU, the University of Reading Student Union.
 
-Accommodation will be free for volunteers, and we’ll provide lunch on the competition days. We may also reimburse travel depending on the budget, so keep your train ticket receipts!
+Accommodation will be provided for volunteers, and we’ll provide lunch on the competition days. We may also reimburse travel depending on the budget, so keep your travel receipts!
 
 Please sign up if you fancy coming: https://forms.gle/foHy82uY98wiPm587
 
