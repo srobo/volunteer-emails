@@ -23,7 +23,11 @@ Tech Days are opportunities for teams to spend a whole day working on their robo
 
 The next tech days coming up will be on:
 
-| Date | Location | 
+| Date | Location |
+| ---- | -------- |
+| February 29th | [London (Thread, Whitechapel)](https://studentrobotics.org/events/sr2020/london-tech-day-february/) |
+| March 7th | [University of Southampton](https://studentrobotics.org/events/sr2020/southampton-tech-day-march/) |
+| March 28th | [London (Thread, Whitechapel)](https://studentrobotics.org/events/sr2020/london-tech-day-march/) |
 | February 29th | [London (Thread, Whitechapel)](https://studentrobotics.org/events/sr2020/london-tech-day-february/) |
 | March 7th | [University of Southampton](https://studentrobotics.org/events/sr2020/southampton-tech-day-march/) |
 | March 28th | [London (Thread, Whitechapel)](https://studentrobotics.org/events/sr2020/london-tech-day-march/) |
