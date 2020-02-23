@@ -28,9 +28,6 @@ The next tech days coming up will be on:
 | February 29th | [London (Thread, Whitechapel)](https://studentrobotics.org/events/sr2020/london-tech-day-february/) |
 | March 7th | [University of Southampton](https://studentrobotics.org/events/sr2020/southampton-tech-day-march/) |
 | March 28th | [London (Thread, Whitechapel)](https://studentrobotics.org/events/sr2020/london-tech-day-march/) |
-| February 29th | [London (Thread, Whitechapel)](https://studentrobotics.org/events/sr2020/london-tech-day-february/) |
-| March 7th | [University of Southampton](https://studentrobotics.org/events/sr2020/southampton-tech-day-march/) |
-| March 28th | [London (Thread, Whitechapel)](https://studentrobotics.org/events/sr2020/london-tech-day-march/) |
 
 If you’re free to help out on a tech day, then [sign up to attend](https://forms.gle/G2p2b37sezyFEriUA)! The events pages have all the details. Don’t worry if you’re new, we’d be happy to help you out with assisting teams or doing other things for the competition!
 
