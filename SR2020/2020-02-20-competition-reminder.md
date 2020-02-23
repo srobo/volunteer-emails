@@ -18,6 +18,7 @@ Please sign up if you fancy coming: https://forms.gle/foHy82uY98wiPm587
 **The deadline for applying to ensure you get accommodation is March 14th!!**
 
 ## Helping with Tech Days
+
 Tech Days are opportunities for teams to spend a whole day working on their robot with lots of help available from us. They’re also an opportunity to see how other teams are doing or get more direct help with your robots.
 
 We provide a space for you to work in, with power and internet access, as well as volunteers able to help you with your kits and hands-on guidance with your robots.
