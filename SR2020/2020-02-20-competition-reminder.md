@@ -9,7 +9,7 @@ Quick update on the volunteering opportunities:
 
 ## We still need volunteers for the competition!
 
-The dates will be April 18th - 19th, with set-up days on the 16th and 17th if you’re available! The venue is RUSU, the University of Reading Student Union.
+The dates will be April 18th - 19th, with set-up days on the 16th and 17th if you’re available! The venue is RUSU, the University of Reading Student Union. See more on the website in the [competition event page](https://studentrobotics.org/events/sr2020/competition/).
 
 Accommodation will be provided for volunteers, and we’ll provide lunch on the competition days. We may also reimburse travel depending on the budget, so keep your travel receipts!
 
