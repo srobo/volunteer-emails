@@ -13,7 +13,7 @@ The dates will be April 18th - 19th, with set-up days on the 16th and 17th if yo
 
 Accommodation will be provided for volunteers, and we’ll provide lunch on the competition days. We may also reimburse travel depending on the budget, so keep your travel receipts!
 
-Please sign up if you fancy coming: https://forms.gle/foHy82uY98wiPm587
+If you'd like to volunteer, please sign up here: https://forms.gle/foHy82uY98wiPm587
 
 **The deadline for applying to ensure you get accommodation is March 14th!!**
 
