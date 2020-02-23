@@ -6,6 +6,7 @@ subject: We need competition volunteers!
 Hello all,
 
 Quick update on the volunteering opportunities:
+
 ## We still need volunteers for the competition!
 
 The dates will be April 18th - 19th, with set-up days on the 17th and 16th if you’re available! The venue is RUSU, the University of Reading Student Union.
