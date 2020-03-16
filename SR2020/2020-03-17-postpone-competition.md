@@ -1,11 +1,11 @@
 ---
 to: All Volunteers and those signed up to volunteer
-subject: Postponing Student Robotics 2020
+subject: Postponing Student Robotics 2020 Competition
 ---
 
 Hello all,
 
-Following guidance from the UK government and the University of Reading, we will need to postpone Student Robotics 2020 from the original date in April, until some time late June / early July.
+Following guidance from the UK government and the University of Reading, we will need to postpone Student Robotics 2020 Competition from the original date in April, until some time late June / early July.
 
 ## Competition
 
@@ -23,6 +23,6 @@ We hope to confirm the updated date in the next week, so please let us know as s
 
 ## Tech Days
 
-There are no current planned tech days. Once things have settled down, we can organise some.
+There are no current planned tech days. Once things have settled down, we hope to organise some.
 
 If you have any further questions, please let us know on competition-team@studentrobotics.org.
