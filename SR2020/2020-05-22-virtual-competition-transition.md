@@ -15,6 +15,6 @@ As we said in the previous email, we aim to keep the virtual competition rules a
 
 We will be announcing the full details of the virtual competition early next week.
 
-For more information, please read our [latest news post](), and you can always find the latest updates on our [COVID-19 updates page](https://studentrobotics.org/covid-19/).
+For more information, please read our [latest news post](https://studentrobotics.org/news/2020-05-22-virtual-competition-transition/), and you can always find the latest updates on our [COVID-19 updates page](https://studentrobotics.org/covid-19/).
 
 If you have any further questions, please don't hesitate to [get in touch](competition-team@studentrobotics.org)!
