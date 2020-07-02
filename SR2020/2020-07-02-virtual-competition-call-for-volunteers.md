@@ -9,7 +9,7 @@ Hi all,
 
 First of all, we're doing a dry run of the whole simulation running, rendering, livestreaming and commentary process **this Saturday at 1PM**.
 
-If you have some time this week, we would love for you to write some robot code which we will put head-to-head against other volunteers in our simulated arena on Saturday.
+If you have some time this week, we would love for you to write some robot code before this session which we will put head-to-head against other volunteers in our simulated arena.
 
 [Join our volunteer session at 1PM on Saturday](https://meet.google.com/bwq-jkmi-jke).
 
