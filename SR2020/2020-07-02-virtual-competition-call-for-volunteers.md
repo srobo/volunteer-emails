@@ -57,10 +57,6 @@ Ideally you will have a stable and fast internet connection, and a reasonably po
 
 You will determine each team's score at the end of a match.
 
-#### Judge
-
-Handles all judging decisions and has the final word on team scores in the case of a dispute.
-
 #### In-chat mentors
 
 You will be in the live-stream chat and on the forum to answer questions on the day.
