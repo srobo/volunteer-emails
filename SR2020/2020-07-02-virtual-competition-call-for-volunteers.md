@@ -61,12 +61,13 @@ Handles all judging decisions and has the final word on team scores in the case 
 
 #### In-chat mentors
 
-You will be in the live-stream chat to answer questions.
+You will be in the live-stream chat and on the forum to answer questions on the day.
+Knowledge of our simualator and Python in general is handy for this role.
 
 ## Sign up
 
-If you are interested to fill any of these roles, please [sign up](https://forms.gle/zdSoX35KRqip2VA9A).
-We will brief you on your role and our safeguarding policies.
+**If you are interested to fill any of these roles, please [sign up](https://forms.gle/zdSoX35KRqip2VA9A).**
+We will brief you on your role and our safeguarding policies once your role has been assigned.
 
 
 If you have any further questions, please don't hesitate to [get in touch](competition-team@studentrobotics.org)!
