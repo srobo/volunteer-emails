@@ -11,6 +11,8 @@ First of all, we're doing a dry run of the whole simulation running, rendering, 
 
 If you have some time this week, we would love for you to write some robot code which we will put head-to-head against other volunteers in our simulated arena on Saturday.
 
+[Join our volunteer session at 1PM on Saturday](https://meet.google.com/bwq-jkmi-jke).
+
 ## The Virtual Competition
 
 We are running the virtual competition over 3 weekends. Exact timings will be coming after our dry run.
