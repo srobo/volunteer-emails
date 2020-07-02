@@ -7,7 +7,7 @@ Hi all,
 
 ## This Saturday (4th July) - our dry run competition
 
-First of all, we're doing a dry run of the whole simulation running, rendering, livestreaming and commentary process this Saturday.
+First of all, we're doing a dry run of the whole simulation running, rendering, livestreaming and commentary process **this Saturday at 1PM**.
 
 If you have some time this week, we would love for you to write some robot code which we will put head-to-head against other volunteers in our simulated arena.
 
