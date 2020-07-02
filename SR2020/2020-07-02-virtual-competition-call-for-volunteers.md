@@ -65,7 +65,7 @@ You will be in the live-stream chat to answer questions.
 
 ## Sign up
 
-If you are interested to fill any of these roles, please [sign up](TODO Link here).
+If you are interested to fill any of these roles, please [sign up](https://forms.gle/zdSoX35KRqip2VA9A).
 We will brief you on your role and our safeguarding policies.
 
 
