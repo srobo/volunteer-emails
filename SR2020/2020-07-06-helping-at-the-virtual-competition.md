@@ -18,11 +18,19 @@ We are running the virtual competition over 3 weekends. The livestreams each day
 | 25th July 2020 | [Knockouts and Final](https://studentrobotics.org/events/sr2020/virtual-competition-knockouts/)|
 
 
-**We need your help to ensure this is as successful as possible**
+## Sign up
+
+**If you are interested in helping out, please [sign up](https://forms.gle/zdSoX35KRqip2VA9A)**. We will brief you on your role and our safeguarding policies once your role has been assigned.
+
+If you have any further questions, please don't hesitate to [get in touch](competition-team@studentrobotics.org)!
+
+[sign up to volunteer at the virtual competition](https://forms.gle/zdSoX35KRqip2VA9A)
 
 ### Roles for the competition days
 
 For all roles, you will be briefed with further details - don't be afraid to sign up! We'll run a [briefing session](https://meet.google.com/uzd-hopo-hos) on the friday before each weekend 18:30-19:30. If you're available to help out, please come along!
+
+[View calendar](https://calendar.google.com/calendar/embed?src=studentrobotics.org_oqdjasvpps8smo0d5nte417rak%40group.calendar.google.com&ctz=Europe%2FLondon)
 
 #### Simulation runner
 
@@ -47,9 +55,3 @@ You will determine each team's score at the end of a match.
 
 You will be in the live-stream chat and on the forum to answer questions on the day.
 Knowledge of our simualator and Python in general is handy for this role.
-
-## Sign up
-
-**If you are interested to fill any of these roles, please [sign up](https://forms.gle/zdSoX35KRqip2VA9A)**. We will brief you on your role and our safeguarding policies once your role has been assigned.
-
-If you have any further questions, please don't hesitate to [get in touch](competition-team@studentrobotics.org)!
