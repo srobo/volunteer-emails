@@ -38,10 +38,6 @@ You would be loading team code into the simulator then recording the output.
 This recording will be handed over to the mixer so the commentators can react live.
 Ideally you would have a reasonably powerful machine to run the simulations on.
 
-#### Commentator
-
-You would be commentating on the matches live in a similar way to the physical competition.
-
 #### Video mixer / streamer
 
 You would be the hub for the stream, playing the simulation recordings to the commentators and mixing the output live to YouTube.
