@@ -24,7 +24,7 @@ We are running the virtual competition over 3 weekends. The livestreams each day
 
 If you have any further questions, please don't hesitate to [get in touch](competition-team@studentrobotics.org)!
 
-[sign up to volunteer at the virtual competition](https://forms.gle/zdSoX35KRqip2VA9A)
+[Sign up to volunteer at the virtual competition](https://forms.gle/zdSoX35KRqip2VA9A)
 
 ### Roles for the competition days
 
