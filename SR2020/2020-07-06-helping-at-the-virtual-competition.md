@@ -28,7 +28,7 @@ If you have any further questions, please don't hesitate to [get in touch](compe
 
 ### Roles for the competition days
 
-For all roles, you will be briefed with further details - don't be afraid to sign up! We'll run a [briefing session](https://meet.google.com/uzd-hopo-hos) on the friday before each weekend 18:30-19:30. If you're available to help out, please come along!
+For all roles, you will be briefed with further details - don't be afraid to sign up! We'll run a [briefing session](https://meet.google.com/uzd-hopo-hos) on the Friday before each weekend 18:30-19:30. If you're available to help out, please come along!
 
 [View calendar](https://calendar.google.com/calendar/embed?src=studentrobotics.org_oqdjasvpps8smo0d5nte417rak%40group.calendar.google.com&ctz=Europe%2FLondon)
 
