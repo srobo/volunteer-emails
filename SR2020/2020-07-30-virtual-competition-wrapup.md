@@ -24,5 +24,5 @@ If you'd like to relive the highs and lows of the competition livestreams of the
 - Knockouts and Final: https://www.youtube.com/watch?v=xBPVqsb_Ydk
 - Final and Tiebreaker: https://www.youtube.com/watch?v=MAXpgODIqiI
 
-See you for SR2020
+We hope to see you for SR2021
 -- The Competition Team
