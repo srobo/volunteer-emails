@@ -6,8 +6,6 @@ date: 2020-09-28
 
 Hi All,
 
-tl;dr We're kicking off SR2021 for volunteers next week!
-
 ## Student Robotics 2021
 
 Given the current state of the world, we doubt it'll be viable to run a *physical* robotics competition next year, so we're aiming for a virtual one.
