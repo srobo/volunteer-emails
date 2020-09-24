@@ -6,7 +6,7 @@ date: 2020-09-28
 
 Hi All,
 
-tl;dr We're kicking off SR2021 for volunteers in 2 weeks!
+tl;dr We're kicking off SR2021 for volunteers next week!
 
 ## Student Robotics 2021
 
