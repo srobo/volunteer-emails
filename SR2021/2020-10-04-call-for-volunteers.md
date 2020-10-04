@@ -1,7 +1,6 @@
 ---
 to: All Volunteers
 subject: SR2021 Call for volunteers
-date: 2020-09-28
 ---
 
 Hi All,
@@ -12,7 +11,7 @@ Given the current state of the world, we doubt it'll be viable to run a *physica
 
 ## Competition kick-off meeting
 
-We're going to hold the kick-off meeting the Thursday after next (October 8th) at 8:30pm UK time, the meet link is: https://meet.google.com/dwz-bosu-suh
+We're going to hold the kick-off meeting monday after next (October 12th) at 8:30pm UK time, the meet link is: https://meet.google.com/dwz-bosu-suh
 
 
 Here's the current agenda:
