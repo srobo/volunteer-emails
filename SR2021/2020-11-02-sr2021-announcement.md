@@ -13,7 +13,7 @@ Unfortunately, we are unable to find a way to run a physical competition in a CO
 
 ## Kickstart
 
-Kickstart will be streamed live on **21st November 2020**. Here we'll announce the game for this year and go into further details on how the competition year will work.
+[Kickstart](https://studentrobotics.org/events/sr2021/kickstart) will be streamed live on **21st November 2020**. Here we'll announce the game for this year and go into further details on how the competition year will work.
 
 ## We need your help!
 
