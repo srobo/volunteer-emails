@@ -21,7 +21,7 @@ Student Robotics is nothing without its volunteers! Whilst there's no in-person 
 
 If you're interested in getting involved, whether by helping with development on our [competition simulator](https://github.com/srobo/competition-simulator), organising events, communicating with teams or anything else, we'd love to hear from you.
 
-We'll be running an onboarding session on **5th November 2020** at 19:45 (UK time) for any potential volunteers, getting them familiar with the simulator, explaining how competitions will work this year, and of course answering any questions!
+We'll be running an onboarding session on **5th November 2020** at 19:45 (UK time) for all volunteers, getting them familiar with the simulator, explaining how events will work this year, and of course answering any questions!
 
 If you're interested in helping out, please come along! If you're interested in helping out but can't make that time, [let us know](competition-team@studentrobotics.org).
 
