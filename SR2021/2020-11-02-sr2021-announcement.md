@@ -23,6 +23,6 @@ If you're interested in getting involved, whether by helping with development on
 
 We'll be running an onboarding session on **5th November 2020** at 19:45 (UK time) for any potential volunteers, getting them familiar with the simulator, explaining how competitions will work this year, and of course answering any questions!
 
-If you're interested in helping out, please come along! If you're interested in helping out but can't make that time, [let us know](competition-team@).
+If you're interested in helping out, please come along! If you're interested in helping out but can't make that time, [let us know](competition-team@studentrobotics.org).
 
 We look forward to seeing you then.
