@@ -19,7 +19,7 @@ Unfortunately, we are unable to find a way to run a physical competition in a CO
 
 Student Robotics is nothing without its volunteers! Whilst there's no in-person Kickstart, competition, or other events to organise, running a virtual competition brings its own challenges, and there's still so much to do. We need your help to make it happen!
 
-If you're interested in getting involved, whether by helping with development on our [competition simulator](https://github.com/srobo/competition-simulator), organising events, communicating with teams or anything else, we'd love to hear from you.
+If you're interested in getting involved with making the competition happen, whether by helping with development on our [competition simulator](https://github.com/srobo/competition-simulator), organising events, communicating with teams or anything else, we'd love to hear from you.
 
 We'll be running an onboarding session on **5th November 2020** at 19:45 (UK time) for all volunteers, getting them familiar with the simulator, explaining how events will work this year, and of course answering any questions!
 
