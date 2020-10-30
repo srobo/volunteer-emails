@@ -1,5 +1,5 @@
 ---
-to: All Volunteers
+to: Potential Volunteers
 subject: Announcing Student Robotics 2021
 ---
 
