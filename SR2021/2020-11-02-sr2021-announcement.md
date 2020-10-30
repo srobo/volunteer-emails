@@ -26,3 +26,5 @@ We'll be running an onboarding session on **5th November 2020** at 19:45 (UK tim
 If you're interested in helping out, please come along! If you're interested in helping out but can't make that time, [let us know](competition-team@studentrobotics.org).
 
 We look forward to seeing you then.
+
+-- SR Competition Committee
