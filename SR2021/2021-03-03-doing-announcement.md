@@ -11,4 +11,4 @@ If you're at all interested in getting involved please do drop in, we'd love to 
 
 Just join our [Google Meet call][google_meet_link] on Saturday any time between 2pm-6pm and get stuck in!
 
-[google_meet_link][redacted]
+[google_meet_link]: redacted
