@@ -11,7 +11,7 @@ We're starting the SR2022 competition cycle and we need your help!
 
 As you may already have seen, we have five main teams within the organisation. If any of these sounds interesting then please feel free to join one of the regular meetings in the [Google Calendar](https://calendar.google.com/calendar/embed?src=studentrobotics.org_oqdjasvpps8smo0d5nte417rak%40group.calendar.google.com&ctz=Europe%2FLondon)
 and check out the relevant channels in our [Slack](SLACK LINK HERE).
-We appreciate any help you can provide, whether that's taking on a couple of tasks or just joining to get a feel for the teams.
+We appreciate any help you can provide, whether that's taking on a couple of tasks or just joining the occasional meeting to say hello and get a feel for what's going on.
 
 ### Kit Team
 
