@@ -60,4 +60,4 @@ If you have an interest or experience with design or video editing, the marketin
 
 We look forward to seeing you soon
 
--- SR Competition Committee
+-- SR Marketing Committee
