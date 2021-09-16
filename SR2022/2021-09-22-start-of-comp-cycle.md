@@ -35,7 +35,7 @@ Key members: Jenny Fletcher, Holly Holder
 
 ### Infrastruture Team
 
-Supporting the tools used by us blueshirts.
+Maintain the technical infrastructure required to support the activities of Student Robotics.
 Led by: Peter Law, Jake Howard
 
 ## Student Robotics 2022 Competition
