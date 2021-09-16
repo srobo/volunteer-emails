@@ -41,7 +41,7 @@ Led by: Peter Law, Jake Howard
 ## Student Robotics 2022 Competition
 
 Now, while we've still got a fair bit of work to do, here are our plans for the year ahead.
-* We're going to return to a more normal looking competition, with physical robots back this year.
+* We're planning on a return to a more normal looking competition, with physical robots back this year.
 * We're also planning to return to running in-person events. Due to a very restricted budget this year it's unlikely we'll be able to run a full-sized competition. What this will likely mean in practice is some "tech day" sized events with a smaller number of teams attending, but with all teams expected to attend a "finals" event.
 * We're expecting to run an online kickstart in late October / early November (i.e. after half term).
 * This also means the challenge will be designed to fit within a classroom sized space.
