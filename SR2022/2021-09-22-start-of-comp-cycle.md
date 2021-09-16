@@ -1,16 +1,11 @@
 ---
 to: All Volunteers
-subject: Student Robotics 2022 Coming Soon
+subject: We need your help for Student Robotics 2022
 ---
 
 Hi All,
 
 We're starting the SR2022 competition cycle and we need your help!
-
-In this email:
-* Refreshed volunteer team structure
-* The shape of SR2022
-* Website overhaul
 
 ## Refreshed team structure
 
