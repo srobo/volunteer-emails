@@ -25,13 +25,15 @@ Led by: Andy Busse, Andy Barrett-Sprott, Jenny Fletcher
 
 ### Marketing Team
 
-Promoting Student Robotics to Sponsors, Volunteers, and Competitors.
+Promoting Student Robotics to Sponsors, Volunteers, and Competitors via our website and social media.
 Led by: Antoine Petty, James Seden Smith
 
 ### Fundraising Team
 
 Engaging with current and prospective sponsors of Student Robotics.
 Key members: Jenny Fletcher, Holly Holder
+
+If you have any contacts in companies who may be able to sponsor us, feel free to reach out or pass the contact details to someone on the fundraising team
 
 ### Infrastruture Team
 
