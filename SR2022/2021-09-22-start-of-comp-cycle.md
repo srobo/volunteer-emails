@@ -38,6 +38,8 @@ Key members: Jenny Fletcher, Holly Holder
 Maintain the technical infrastructure required to support the activities of Student Robotics.
 Led by: Peter Law, Jake Howard
 
+The infrastructure team will be meeting on a monthly basis with the meeting details avaliable on the SR calendar. If you're interested in what the team will get up to, feel free to join the [#infrastructure](https://studentrobotics.slack.com/archives/C02BXUAK33M) channel in Slack. If you'd like to get more involved in the team then please respond to [our poll](https://doodle.com/poll/ncivi35z5wxm2qbn) to help us find a regular time slot.
+
 ## Student Robotics 2022 Competition
 
 Now, while we've still got a fair bit of work to do, here are our plans for the year ahead.
@@ -49,7 +51,7 @@ Now, while we've still got a fair bit of work to do, here are our plans for the 
 
 ### Mentoring
 
-Our teams have had a couple of years of purely virtual competitions so may need a little more support getting to grips with our kit and robot-building again. 
+Our teams have had a couple of years of purely virtual competitions so may need a little more support getting to grips with our kit and robot-building again.
 This is an easy way to make a big difference for our competitors to boost their skills and confidence, even if you're fairly new to volunteering.
 If you'd like to get involved, please let the competition team know!
 
