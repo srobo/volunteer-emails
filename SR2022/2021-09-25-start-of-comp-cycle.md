@@ -66,6 +66,13 @@ We're planning to hold a kit-packing weekend in early October - keep an eye out 
 We're in the process of giving our website a fresh lick of paint (you may have already seen our [new sponsor page](https://studentrobotics.org/sponsor/) ).
 If you have an interest or experience with design or video editing, the marketing team would love to hear from you. You don't need any particularly technical skills to get involved. :)
 
+## Sponsors
+
+We are very pleased to announce that we have two new sponsors:
+* [Adventurous Machines](https://adventurousmachines.com/)
+* [Hills Road Sixth Form College](https://www.hillsroad.ac.uk/)
+
+
 We look forward to seeing you soon
 
 -- SR Marketing Committee
