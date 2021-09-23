@@ -69,7 +69,7 @@ If you have an interest or experience with design or video editing, the marketin
 ## Sponsors
 
 We are very pleased to announce that we have two new sponsors:
-* [Adventurous Machines](https://adventurousmachines.com/)
+* [Adventurous Machines](https://adventurousmachines.com/?ref=studentrobotics)
 * [Hills Road Sixth Form College](https://www.hillsroad.ac.uk/)
 
 
