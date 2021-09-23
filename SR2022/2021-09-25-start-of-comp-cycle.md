@@ -57,6 +57,10 @@ Our teams have had a couple of years of purely virtual competitions so may need 
 This is an easy way to make a big difference for our competitors to boost their skills and confidence, even if you're fairly new to volunteering.
 If you'd like to get involved, please let the competition team know!
 
+### Kit Packing
+
+We're planning to hold a kit-packing weekend in early October - keep an eye out for another email from the kit team soon!
+
 ## Website Overhaul
 
 We're in the process of giving our website a fresh lick of paint (you may have already seen our [new sponsor page](https://studentrobotics.org/sponsor/) ).
