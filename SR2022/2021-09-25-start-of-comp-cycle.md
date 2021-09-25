@@ -63,7 +63,7 @@ We're planning to hold a kit-packing weekend in early October - keep an eye out 
 
 ## Website Overhaul
 
-We're in the process of giving our website a fresh lick of paint (you may have already seen our [new sponsor page](https://studentrobotics.org/sponsor/) ).
+We're in the process of giving our website a fresh lick of paint (you may have already seen our [new sponsor page](https://studentrobotics.org/sponsor/?utm_source=volunteer-email&utm_medium=email&utm_campaign=2021-09-25-start-of-comp-cycle) ).
 If you have an interest or experience with design or video editing, the marketing team would love to hear from you. You don't need any particularly technical skills to get involved. :)
 
 ## Sponsors
