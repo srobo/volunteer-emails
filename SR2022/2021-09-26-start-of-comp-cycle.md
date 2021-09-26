@@ -13,6 +13,8 @@ As you may already have seen, we have five main teams within the organisation. I
 and check out the relevant channels in our [Slack](SLACK LINK HERE).
 We appreciate any help you can provide, whether that's taking on a couple of tasks or just joining the occasional meeting to say hello and get a feel for what's going on.
 
+The new teams are:
+
 ### Kit Team
 
 Supporting the current kit which is provided to competitors and developing the next generation.
