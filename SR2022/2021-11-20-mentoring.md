@@ -5,6 +5,8 @@ subject: Sign up to mentor an SR2022 team
 
 Hi All,
 
+We're looking for mentors!
+
 Mentoring is an opportunity for you to get to know a team and to grow your communication and team working skills, as well as help them improve their robot.
 
 Your role as a mentor is to guide the team towards good solutions for their robot, provide assistance where they might need it as well as help them understand the simulator, the rules and the competition as a whole. This doesn’t mean that you need to know everything about these yourself (it’s completely fine not to know things!), rather you will guide them towards finding the information for themselves.
