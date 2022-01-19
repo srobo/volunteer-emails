@@ -25,7 +25,7 @@ Led by: Karina Kwiatek, Dan Trickey
 
 Shaping this year's competition including the game, the venue, and managing the teams.
 
-Led by: Andy Busse, Andy Barrett-Sprott, Jenny Fletcher
+Led by: Andy Busse, Andy Barrett-Sprot, Jenny Fletcher
 
 ### Marketing Team
 
@@ -41,12 +41,12 @@ Key members: Jenny Fletcher, Holly Holder
 
 If you have any contacts in companies who may be able to sponsor us, feel free to reach out or pass the contact details to someone on the fundraising team
 
-### Infrastruture Team
+### Infrastructure Team
 
 Maintain the technical infrastructure required to support the activities of Student Robotics.
 Led by: Peter Law, Jake Howard
 
-The infrastructure team will be meeting on a monthly basis with the meeting details avaliable on the SR calendar. If you're interested in what the team will get up to, feel free to join the [#infrastructure](https://studentrobotics.slack.com/archives/C02BXUAK33M) channel in Slack. If you'd like to get more involved in the team then please respond to [our poll](https://doodle.com/poll/ncivi35z5wxm2qbn) to help us find a regular time slot.
+The infrastructure team will be meeting on a monthly basis with the meeting details available on the SR calendar. If you're interested in what the team will get up to, feel free to join the [#infrastructure](https://studentrobotics.slack.com/archives/C02BXUAK33M) channel in Slack. If you'd like to get more involved in the team then please respond to [our poll](https://doodle.com/poll/ncivi35z5wxm2qbn) to help us find a regular time slot.
 
 ## Student Robotics 2022 Competition
 

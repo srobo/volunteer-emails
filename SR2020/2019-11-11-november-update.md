@@ -5,7 +5,7 @@ subject: November Update
 
 Hi all,
 
-Here’s a roundup of all the things we’re currently working on to make SR2020
+Here’s a round-up of all the things we’re currently working on to make SR2020
 awesome. As ever, if you’d like to get involved please join us in our [Slack][slack]
 ([signup form][slack-signup]).
 

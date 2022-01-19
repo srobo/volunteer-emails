@@ -50,4 +50,4 @@ You will determine each team's score at the end of a match.
 #### In-chat mentors
 
 You will be in the live-stream chat and on the forum to answer questions on the day.
-Knowledge of our simualator and Python in general is handy for this role.
+Knowledge of our simulator and Python in general is handy for this role.

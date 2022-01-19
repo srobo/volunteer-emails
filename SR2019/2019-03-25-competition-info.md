@@ -27,10 +27,10 @@ These schedules are likely to shift around between now and the competition, so m
 
 ## Travel
 
-We have some money set aside in the budget for reimbursing volunteer travel costs. We can't promise to reimburse everyone 100% of their costs but if you hold onto any reciepts for petrol, train tickets or other travel purchases we'll do our best to make sure everyone is reimbursed fairly.
+We have some money set aside in the budget for reimbursing volunteer travel costs. We can't promise to reimburse everyone 100% of their costs but if you hold onto any receipts for petrol, train tickets or other travel purchases we'll do our best to make sure everyone is reimbursed fairly.
 
 
-## Accomodation
+## Accommodation
 
 If you're expecting accommodation, and haven't been contacted by us about your room, please let us know ASAP. We'll be sending final details (i.e. location) to you very soon.
 
