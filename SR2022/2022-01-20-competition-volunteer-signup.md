@@ -22,7 +22,7 @@ who are interested to group together to save costs.
 
 We're also looking for people to help organise the competition. Even if you only
 have a small amount of time available, every contribution helps make the event
-better for the competitors. Please contact competiton-team@studentrobotics.org
-if you'd like to help.
+better for the competitors. If you'd like to help, please come along to a
+competition meeting or contact <competiton-team@studentrobotics.org>.
 
 -- SR Competition Team
