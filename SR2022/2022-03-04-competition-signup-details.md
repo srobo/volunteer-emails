@@ -14,8 +14,11 @@ Also, please feel free to forward this email to all others you think can help ou
 
     [Volunteer at the Competition](https://forms.gle/WJ3ujG9QEPpGEZ4k6)
 
-Note: If you completed a previous form registering your interest, please also complete this form,
-as it collects additional information needed for the competition.
+Thanks to everyone who expressed their interest in helping out earlier in the year,
+the input gathered then has been useful in planning the competition. As we mentioned
+at the time we're now collecting more detailed information about volunteering at the
+event so even if you expressed interest already please do fill in this form to provide
+those details.
 
 We're also looking for people to help organise the competition. Even if you only
 have a small amount of time available, every contribution helps make the event
