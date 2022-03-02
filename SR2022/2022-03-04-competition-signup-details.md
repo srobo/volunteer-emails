@@ -5,7 +5,7 @@ subject: More details about volunteering at the competition
 
 Hi,
 
-As mentioned in a previous email, The [SR2022 Competition](https://studentrobotics.org/events/sr2022/competition/)
+As mentioned in a previous email, the [SR2022 Competition](https://studentrobotics.org/events/sr2022/competition/)
 event will be on the weekend of the 23rd April, in person at Southampton University.
 
 We need some enthusiastic volunteers to help inspire the younger generation, and keep
