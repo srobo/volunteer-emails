@@ -1,6 +1,6 @@
 ---
 to: All Volunteers
-subject: Sign up to volunteer at the competition (full details)
+subject: Help run the SR2022 Competition event (dates finalised)
 ---
 
 Hi,
