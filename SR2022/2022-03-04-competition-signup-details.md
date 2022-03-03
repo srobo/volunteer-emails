@@ -1,6 +1,6 @@
 ---
 to: All Volunteers, volunteers@ and those who completed the form before
-subject: More details about volunteering at the competition
+subject: Sign up to volunteer at the competition (full details)
 ---
 
 Hi,
