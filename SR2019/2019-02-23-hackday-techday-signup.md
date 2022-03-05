@@ -24,7 +24,7 @@ If you are coming along let us know by [signing up to attend][techday-signup]).
 
 ## Take on a task on the task list.
 
-You can also take on some tasks on the task list on github.
+You can also take on some tasks on the task list on GitHub.
 Post a reply on the task so we know you are working on it,
 Don't worry if you don't know everything about a task just ask in the task for any help you need.
 

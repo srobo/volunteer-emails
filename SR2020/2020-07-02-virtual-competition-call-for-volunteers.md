@@ -40,8 +40,8 @@ For all roles, you will be briefed with further details - don't be afraid to sig
 
 #### Simulation runner
 
-You would be loading team code into the simulator then recording the output. 
-This recording will be handed over to the mixer so the commentators can react live. 
+You would be loading team code into the simulator then recording the output.
+This recording will be handed over to the mixer so the commentators can react live.
 Ideally you would have a reasonably powerful machine to run the simulations on.
 
 #### Commentator
@@ -60,7 +60,7 @@ You will determine each team's score at the end of a match.
 #### In-chat mentors
 
 You will be in the live-stream chat and on the forum to answer questions on the day.
-Knowledge of our simualator and Python in general is handy for this role.
+Knowledge of our simulator and Python in general is handy for this role.
 
 ## Sign up
 

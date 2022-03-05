@@ -1,0 +1,15 @@
+{
+  "name": "emails",
+  "description": "A history of communication to volunteers.",
+  "scripts": {
+    "test": "cspell '**'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srobo/volunteer-emails.git"
+  },
+  "homepage": "https://github.com/srobo/volunteer-emails#readme",
+  "dependencies": {
+    "cspell": "^5.17.0"
+  }
+}
