@@ -1,5 +1,5 @@
 ---
-to: All Volunteers, volunteers@ and those who completed the form before
+to: All Volunteers, volunteers@
 subject: Help wanted for an in-person Tech Day
 ---
 
