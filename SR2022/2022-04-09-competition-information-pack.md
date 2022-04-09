@@ -27,6 +27,9 @@ Unfortunately we are unable to cover expenses for getting to the competition thi
 ## Safeguarding
 All volunteers are required to read the [safeguarding policy](https://opsmanual.studentrobotics.org/about-the-charity/safeguarding). Please ensure you have read this ahead of time, and e-mail safeguarding@studentrobotics.org to confirm you have read and understood it.
 
+## Refreshments
+Hot drinks, cold drinks, and snacks will be available throughout the competition and the setup days. If possible, please bring a re-usable mug to make your drinks in so we can limit waste. You will need to provide your own lunch.
+
 ## Southampton Marathon
 
 On Sunday 24th April, a marathon event is being held in Southampton. As a result there will be a number of road closures in the area, including on the university campus. Parking will also be limited. Keep an eye on the [competition page](https://studentrobotics.org/events/sr2022/competition/) on our website to see up-to-date information on how to reach the competition. There may be some time changes to account for this, and some restrictions on which car parks are available.
