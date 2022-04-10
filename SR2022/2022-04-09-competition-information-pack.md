@@ -46,6 +46,6 @@ Life is beginning to get back to normal, and this means we are finally able to d
 Please keep an eye on this as we get closer to the competition, as the content may change. There are also some changes for the setup days, if you are attending the setup days please speak to someone on arrival to check what is required.
 
 
-Further information on many of these points can be found on the [competition event page](https://studentrobotics.org/events/sr2022/competition/), so keep an eye on this for updates. We welcome questions, so please feel free to ask if you need clarification on anything!
+Further information on many of these points can be found on the [competition event page](https://studentrobotics.org/events/sr2022/competition/), so keep an eye on this for updates. We welcome questions, so please feel free to ask (either by replying to this email or in Slack) if you need clarification on anything!
 
 Thanks for all your help! We look forward to seeing you at the competition!
