@@ -22,7 +22,7 @@ You will have to complete a [Media Consent form](https://studentrobotics.org/res
 ## Reimbursements
 If you have made any expenditures for the competition, please remember to claim your money back. Please speak to the competition team committee about approving refunds.
 
-Unfortunately we are unable to cover expenses for getting to the competition this year.
+Unfortunately we are unable to cover expenses for getting to the competition or for accommodation this year.
 
 ## Safeguarding
 All volunteers are required to read the [safeguarding policy](https://opsmanual.studentrobotics.org/about-the-charity/safeguarding). Please ensure you have read this ahead of time, and e-mail safeguarding@studentrobotics.org to confirm you have read and understood it.
