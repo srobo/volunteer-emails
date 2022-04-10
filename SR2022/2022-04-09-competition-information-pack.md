@@ -11,7 +11,7 @@ A few bits of information to be aware of:
 
 
 ## Venue opening times
-The venue doors will open at ??:??, with competitors arriving from 09:00. There will be some briefings and some preparation ahead of the competitors arriving, so please arrive promptly.
+During the weekend the venue doors will open at ??:??, with competitors arriving from 09:00. There will be some briefings and some preparation ahead of the competitors arriving, so please arrive promptly.
 
 ## Volunteer schedule
 Please check the [volunteer schedule]() to see what roles you've been allocated. Role descriptions can be found [here](). Please read the descriptions for the roles you've been allocated to ensure you know what your jobs will entail.
@@ -28,7 +28,8 @@ Unfortunately we are unable to cover expenses for getting to the competition or 
 All volunteers are required to read the [safeguarding policy](https://opsmanual.studentrobotics.org/about-the-charity/safeguarding). Please ensure you have read this ahead of time, and e-mail safeguarding@studentrobotics.org to confirm you have read and understood it.
 
 ## Refreshments
-Hot drinks, cold drinks, and snacks will be available throughout the competition and the setup days. If possible, please bring a re-usable mug to make your drinks in so we can limit waste. You will need to provide your own lunch.
+Hot drinks, cold drinks, and snacks will be available throughout the competition and the setup days. If possible, please bring a re-usable mug to make your drinks in so we can limit waste.
+You will need to provide your own lunch, it is recommended that you bring this with you at the beginning of the day.
 
 ## Southampton Marathon
 
@@ -43,7 +44,11 @@ As always, t-shirts have been ordered for all volunteers. These will be availabl
 
 Life is beginning to get back to normal, and this means we are finally able to do in person events again! However, we must recognise that some people still have to be cautious, to protect their own health or their friends or family. As such, we ask that everyone follows [our COVID policy](https://studentrobotics.org/covid-19/) to help ensure we all keep safe, whilst still having lots of fun with robots!
 
-Please keep an eye on this as we get closer to the competition, as the content may change. There are also some changes for the setup days, if you are attending the setup days please speak to someone on arrival to check what is required.
+Please keep an eye on this as we get closer to the competition, as the content may change.
+
+## Setup days
+On the Thursday and Friday, the venue doors will open at 09:00. We will be meeting in the SUSU entrance at this time. If you are arriving later in the day, then you will most likely find someone in the Cube.
+There are also some changes to the COVID policy for the setup days, if you are attending the setup days please speak to someone on arrival to check what is required. Please ensure you bring a face mask.
 
 
 Further information on many of these points can be found on the [competition event page](https://studentrobotics.org/events/sr2022/competition/), so keep an eye on this for updates. We welcome questions, so please feel free to ask (either by replying to this email or in Slack) if you need clarification on anything!
