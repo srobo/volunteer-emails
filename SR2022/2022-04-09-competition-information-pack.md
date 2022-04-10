@@ -32,7 +32,7 @@ Hot drinks, cold drinks, and snacks will be available throughout the competition
 
 ## Southampton Marathon
 
-On Sunday 24th April, a marathon event is being held in Southampton. As a result there will be a number of road closures in the area, including on the university campus. Parking will also be limited. Keep an eye on the [competition page](https://studentrobotics.org/events/sr2022/competition/) on our website to see up-to-date information on how to reach the competition. There may be some time changes to account for this, and some restrictions on which car parks are available.
+On Sunday 24th April, a marathon event is being held in Southampton. As a result there will be a number of road closures in the area, including on the university campus. Parking will also be limited. Keep an eye on the [competition event page](https://studentrobotics.org/events/sr2022/competition/) on our website to see up-to-date information on how to reach the competition. There may be some time changes to account for this, and some restrictions on which car parks are available.
 
 Please note that this also means that access to food sellers may be restricted, so please plan accordingly.
 
@@ -45,5 +45,7 @@ Life is beginning to get back to normal, and this means we are finally able to d
 
 Please keep an eye on this as we get closer to the competition, as the content may change. There are also some changes for the setup days, if you are attending the setup days please speak to someone on arrival to check what is required.
 
+
+Further information on many of these points can be found on the [competition event page](https://studentrobotics.org/events/sr2022/competition/), so keep an eye on this for updates. We welcome questions, so please feel free to ask if you need clarification on anything!
 
 Thanks for all your help! We look forward to seeing you at the competition!
