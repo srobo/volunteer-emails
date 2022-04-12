@@ -38,7 +38,7 @@ On Sunday 24th April, a marathon event is being held in Southampton. As a result
 Please note that this also means that access to food sellers may be restricted, so please plan accordingly.
 
 ## T-Shirts
-As always, t-shirts have been ordered for all volunteers. These will be available when you arrive on the Saturday.
+As always, t-shirts have been ordered for volunteers. These will be available when you arrive on the Saturday.
 
 ## COVID Safety
 
