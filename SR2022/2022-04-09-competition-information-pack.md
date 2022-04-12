@@ -14,7 +14,7 @@ A few bits of information to be aware of:
 During the weekend the venue doors will open at ??:??, with competitors arriving from 09:00. There will be some briefings and some preparation ahead of the competitors arriving, so please arrive promptly.
 
 ## Volunteer schedule
-Please check the [volunteer schedule]() to see what roles you've been allocated. Role descriptions can be found [here](). Please read the descriptions for the roles you've been allocated to ensure you know what your jobs will entail.
+We're in the process of assigning volunteers, we'll soon be sending you an email with your individual roles and how to perform them, keep an eye out for it!
 
 ## Media Consent
 You will have to complete a [Media Consent form](https://studentrobotics.org/resources/sr2022/media-consent.pdf). If you are able to complete this ahead of time that will be appreciated. There will be a few spare media consent forms available.
