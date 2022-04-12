@@ -47,7 +47,7 @@ Life is beginning to get back to normal, and this means we are finally able to d
 Please keep an eye on this as we get closer to the competition, as the content may change.
 
 ## Setup days
-On the Thursday and Friday, the venue doors will open at 09:00. We will be meeting in the SUSU entrance at this time. If you are arriving later in the day, then you will most likely find someone in the Cube.
+On the Thursday and Friday, the venue doors will open at 09:00. We will be meeting in the SUSU entrance at this time. If you are arriving later in the day, then you will most likely find someone in the Cube (bottom of the stairs, turn left).
 There are also some changes to the COVID policy for the setup days, if you are attending the setup days please speak to someone on arrival to check what is required. Please ensure you bring a face mask.
 
 
