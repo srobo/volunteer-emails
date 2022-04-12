@@ -51,6 +51,6 @@ On the Thursday and Friday, the venue doors will open at 09:00. We will be meeti
 There are also some changes to the COVID policy for the setup days, if you are attending the setup days please speak to someone on arrival to check what is required. Please ensure you bring a face mask.
 
 
-Further information on many of these points can be found on the [competition event page](https://studentrobotics.org/events/sr2022/competition/), so keep an eye on this for updates. We welcome questions, so please feel free to ask (either by replying to this email or in Slack) if you need clarification on anything!
+Further information on many of these points can be found on the [competition event page](https://studentrobotics.org/events/sr2022/competition/), so keep an eye on this for updates. We welcome questions, so please feel free to ask (either by replying to this email or in Slack ([sign up](https://goo.gl/forms/Maq41MHF8CYSRVn83))) if you need clarification on anything!
 
 Thanks for all your help! We look forward to seeing you at the competition!
