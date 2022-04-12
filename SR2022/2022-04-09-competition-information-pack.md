@@ -20,7 +20,7 @@ We're in the process of assigning volunteers, we'll soon be sending you an email
 You will have to complete a [Media Consent form](https://studentrobotics.org/resources/sr2022/media-consent.pdf). If you are able to complete this ahead of time that will be appreciated. There will be a few spare media consent forms available.
 
 ## Reimbursements
-If you have made any expenditures for the competition, please remember to claim your money back. Please speak to the competition team committee about approving refunds.
+If you have made any expenditures for the competition, please remember to claim your money back. Please speak to the Competition Team Committee about approving refunds.
 
 Unfortunately we are unable to cover expenses for getting to the competition or for accommodation this year.
 
