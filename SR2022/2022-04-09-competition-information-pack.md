@@ -17,7 +17,7 @@ During the weekend the venue doors will open to competitors at 09:00. There will
 We're in the process of assigning volunteers, we'll soon be sending you an email with your individual roles and how to perform them, keep an eye out for it!
 
 ## Media Consent
-You will have to complete a [Media Consent form](https://studentrobotics.org/resources/sr2022/media-consent.pdf). If you are able to complete this ahead of time that will be appreciated. There will be a few spare media consent forms available.
+You will have to complete a [Media Consent form](https://studentrobotics.org/resources/sr2022/media-consent.pdf). If you are able to complete this ahead of time and bring it with you, that will be appreciated. There will be a few spare media consent forms available.
 
 ## Reimbursements
 If you have made any expenditures for the competition, please remember to claim your money back. Please speak to the Competition Team Committee about approving refunds.
