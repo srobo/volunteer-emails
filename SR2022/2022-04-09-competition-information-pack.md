@@ -11,7 +11,7 @@ A few bits of information to be aware of:
 
 
 ## Venue opening times
-During the weekend the venue doors will open at ??:??, with competitors arriving from 09:00. There will be some briefings and some preparation ahead of the competitors arriving, so please arrive promptly.
+During the weekend the venue doors will open to competitors at 09:00. There will be some briefings and some tasks that need doing ahead of this, and this is likely to be outdoors, so please arrive promptly for 08:30 and be prepared for the weather conditions.
 
 ## Volunteer schedule
 We're in the process of assigning volunteers, we'll soon be sending you an email with your individual roles and how to perform them, keep an eye out for it!
