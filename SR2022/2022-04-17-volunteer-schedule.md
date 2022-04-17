@@ -1,6 +1,6 @@
 ---
 to: Competition signups
-from: Andy B-S's email directly
+from: Andy B-S
 subject: Your Volunteer Roles at the competition.
 preview-text: Here's all you need to know about what you're scheduled to do at the competition.
 ---
