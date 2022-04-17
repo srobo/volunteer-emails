@@ -14,7 +14,7 @@ We've allocated your volunteer roles during the competition, however these roles
 - [Saturday](REDACTED)
 - [Sunday](REDACTED)
 
-Get yourself trained up! We have a short [a summary of the roles](REDACTED), be sure to check it, as we have a bunch of roles with an entire page of documentation.
+We have [a description of all roles](REDACTED) including links to more documentation, to help out I've put the description of your roles below:
 
 {Short personal text explaining what they are signed up for and copy/pasting the role descriptions for their role}.
 
