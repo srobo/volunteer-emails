@@ -18,4 +18,4 @@ Get yourself trained up! We have a short [a summary of the roles](REDACTED), be 
 
 {Short personal text explaining what they are signed up for and copy/pasting the role descriptions for their role}.
 
-If you don't like, or have questions on any of your assigned roles in any way, now's the time to speak out! Just reply to this email and I'll try to cater for your preferences. As I said, we're pretty tight on volunteers right now, so don't expect a miracle!
+If you have any questions on any of your assigned roles in any way, now's the time to speak out! Just reply to this email and I'll try to cater for your preferences. As I said, we're pretty tight on volunteers right now, so don't expect a miracle!
