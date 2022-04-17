@@ -7,7 +7,7 @@ preview-text: Here's all you need to know about what you're scheduled to do at t
 
 Hi,
 
-We've allocated your volunteer roles during the competition, however these roles aren't permanent. There's a chance we may need to make alterations in the days leading up to the competition, so be sure to check the links again closer to the date to make sure you're still scheduled for the same roles!
+We've allocated your volunteer roles during the competition, however these roles aren't fixerd. There's a chance we may need to make alterations in the days leading up to the competition, so be sure to check the links again closer to the date to make sure you're still scheduled for the same roles! I'll also try to email you when changes happen.
 
 - [Thursday (set-up day)](REDACTED)
 - [Friday (set-up day)](REDACTED)
