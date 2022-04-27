@@ -7,7 +7,7 @@ Thank you so much for volunteering at the competition. Without volunteers like y
 
 We've already received lots of positive comments from the teams who competed, they loved the atmosphere we created and the enthusiasm we injected into the event -- nice work!
 
-We're always looking to improve; we'd love to hear your feedback, so we can make SR2023 even better!  Please fill out [our feedback survey](SURVEY_LINK).
+We're always looking to improve; we'd love to hear your feedback, so we can make SR2023 even better! Please fill out [our feedback survey](SURVEY_LINK).
 
 Additionally, if you have any thoughts regarding the competition that you want to discuss with someone, feel free to message us on Slack [(Join slack here)](Slack_join_link). As usual, we had different people in charge of different aspects of the event, so the best person to speak to depends on your question:
 - Volunteering: Andy Barrett-Sprot
