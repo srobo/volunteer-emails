@@ -21,4 +21,4 @@ Additionally, if you have any thoughts regarding the competition that you want t
 - Kit: Dan Trickey
 - Media/Press/Photography: Antoine Petty
 
-Alternatively, if you'd prefer to speak to a trustee, feel free to email trustees@[rest of the email goes here].
+Alternatively, if you'd prefer to speak to the competition committee or a trustee, feel free to email them at competition-committee@[rest of the email goes here] or trustees@[rest of the email goes here] respectively.
