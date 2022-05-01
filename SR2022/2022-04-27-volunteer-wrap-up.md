@@ -15,7 +15,7 @@ Additionally, if you have any thoughts regarding the competition that you want t
 - The Venue: Andy Barrett-Sprot
 - Logistics: Will Barber
 - Production: Tyler Ward
-- Competition software: Peter Law
+- Competition Software: Peter Law
 - Team Support: Jake Howard
 - Health & Safety: Scarzy
 - Kit: Dan Trickey
