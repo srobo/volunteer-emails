@@ -13,7 +13,7 @@ Kickstart is the event which starts the competition year. We invite all teams to
 
 ## When / Where is kickstart?
 
-This year we're hosting Kickstart at Southampton University on Saturday 22nd October.
+This year we're hosting Kickstart at the University of Southampton on Saturday 22nd October and we ask you to arrive at around 9:30am.
 
 More information can be found on [the website](https://studentrobotics.org/events/sr2023/southampton-kickstart/).
 
