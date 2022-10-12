@@ -7,11 +7,11 @@ Hello everyone!
 
 We're back for Student Robotics 2023 and we've announced the date and location for Kickstart.
 
-## What is kickstart?
+## What is Kickstart?
 
 Kickstart is the event which starts the competition year. We invite all teams to attend the event, where we unveil the game, issue their kits, and help competitors get acquainted with the kit.
 
-## When / Where is kickstart?
+## When / Where is Kickstart?
 
 This year we're hosting Kickstart at the University of Southampton on Saturday 22nd October and we ask you to arrive at around 9:30am.
 
@@ -21,7 +21,7 @@ More information can be found on [the website](https://studentrobotics.org/event
 
 ## Tasks
 
-We've got a few tasks to sort out pre-kickstart, so if you're interested in joining in on the community of people actively sorting the events, feel free to [join our slack][slack-signup] and ask there, or have a look at [our list of tasks that need doing before kickstart][kickstart-tasks] and find a task that suits you.
+We've got a few tasks to sort out pre-Kickstart, so if you're interested in joining in on the community of people actively sorting the events, feel free to [join our slack][slack-signup] and ask there, or have a look at [our list of tasks that need doing before Kickstart][kickstart-tasks] and find a task that suits you.
 
 
 [signup-form]: https://forms.gle/BsUz2SDsRzJfaNQcA
