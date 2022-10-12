@@ -1,6 +1,6 @@
 ---
 to: All Volunteers
-subject: SR2023 Kickstart
+subject: Help us run Kickstart 2023!
 ---
 
 Hello everyone!
@@ -17,7 +17,7 @@ This year we're hosting Kickstart at the University of Southampton on Saturday 2
 
 More information can be found on [the website](https://studentrobotics.org/events/sr2023/southampton-kickstart/).
 
-[I want to volunteer at a kickstart event][signup-form]
+[I want to volunteer at Kickstart][signup-form]
 
 ## Tasks
 
