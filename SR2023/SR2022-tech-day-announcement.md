@@ -20,7 +20,7 @@ The next tech day is a virtual tech day this Saturday on Discord, if you sign up
 
 If you're available and would like to help at one of the in-person Tech Days we're planning, please fill in the form below to let us know when and where you're available:
 
-**[Tech Day Volunteer sign-up form](signup)**
+**[Tech Day Volunteer sign-up form][signup]**
 
 Having enough volunteers is important to ensure the Tech Days are valuable to teams, so if you can attend please fill in the form!
 
