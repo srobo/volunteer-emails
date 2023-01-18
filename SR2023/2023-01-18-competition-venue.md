@@ -8,7 +8,7 @@ Hello,
 # Competition Event
 
 We're thrilled to announce the venue for Student Robotics 2023 -- it will be
-held in person at Southampton University on the weekend 1st April.
+held in person at the University of Southampton on the weekend 1st April.
 
 We're in the early stages of planning the event and would like to hear from
 anyone who would be interested in volunteering at the event and/or during setup
