@@ -17,7 +17,7 @@ confirm more details and roles nearer the time and after we have a sense of the
 number of volunteers available.
 
 Please note that we are unlikely to be able to fully reimburse travel and
-accommodation costs, but are intending to contribute £xx per person to these
+accommodation costs, but are intending to contribute £85 per person to these
 costs.
 
     [Volunteer at the Competition](https://forms.gle/HHy2f5naCvP46bZ59)
