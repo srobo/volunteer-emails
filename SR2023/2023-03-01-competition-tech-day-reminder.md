@@ -27,7 +27,7 @@ have a small amount of time available, every contribution helps make the event
 better for the competitors. If you'd like to help, please come along to a
 competition meeting or contact <competition-team@studentrobotics.org>.
 
-We will put more details on [the event
+We will put more details on the [event
 page](https://studentrobotics.org/events/sr2023/competition/) as they become
 available.
 
@@ -49,7 +49,7 @@ when you're available:
 
     [Volunteer at a Tech Day](https://forms.gle/VjbEXqdYorcF2oaP7)
 
-We will add more details to the [list of
-events](https://studentrobotics.org/events/) as they become available.
+We will add more details to the [event
+page](https://studentrobotics.org/events/sr2023/southampton-tech-day-march/) as they become available.
 
 -- SR Competition Team
