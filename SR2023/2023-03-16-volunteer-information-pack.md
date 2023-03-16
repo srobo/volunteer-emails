@@ -30,7 +30,7 @@ Please check our external event page for how to get to the venue, and where to p
 Unfortunately, there will a few factors to consider when trying to get to the venue:
 
 ### Rail Strikes
-There is a rail strike scheduled for the Thursday set-up day, and the Saturday of the competition. For both of these days, [SouthWestern Railway will have reduced services between Southampton and London](https://www.southwesternrailway.com/plan-my-journey/industrial-action), there are many rail operators in the UK though. At time of writing, not all have published plans for the competition weekend, so please check your intended train services are still running closer to the date.
+There is a rail strike scheduled for the Thursday set-up day, and the Saturday of the competition. For both of these days, [South Western Railway will have reduced services between Southampton and London](https://www.southwesternrailway.com/plan-my-journey/industrial-action), there are many rail operators in the UK though. At time of writing, not all have published plans for the competition weekend, so please check your intended train services are still running closer to the date.
 
 ### Southampton Marathon on Sunday
 The [Southampton Marathon](https://www.southamptonmarathon.co.uk/residents-info) is scheduled on the competition Sunday. As a result, there will be a number of road closures in the area, including on the university campus where the competition is held. Parking will also be limited. Keep an eye on the [competition event page on our website](https://studentrobotics.org/events/sr2023/competition/) see up-to-date information on how to reach the competition. 
