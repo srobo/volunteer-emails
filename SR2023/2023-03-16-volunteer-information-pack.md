@@ -40,10 +40,10 @@ Last year the U1C bus still operated between the 'Southampton Airport Parkway' t
 # Reimbursements for Accommodation and Travel 
 Sadly we aren't able to provide accommodation for volunteers this year. However, we are able to reimburse up to £85 total of travel and accommodation. If you urgently need a reimbursement, you can claim reimbursement in our [reimbursement claim form](https://forms.gle/ATV3UeS9Sbd2ynhv8), and mark 'this reimbursement is urgent'.
 
-## COVID Safety
+# COVID Safety
 We take COVID safety very seriously, We strongly recommend all volunteers test themselves before the event. Volunteers should also wear masks at all times, especially including set-up days as we cannot afford to lose a large number of volunteers during the event.
 
-## Food during the weekend
+# Food during the weekend
 We're planning on arranging for sandwiches and fruit and biscuits to be available during lunchtimes. If you indicated your dietary requirements during sign-ups so we'll do our best to accommodate for you. You should also have a long enough lunch break if you want to get something specific.
 
 We'll be having a meal on the Saturday evening, typically we ask for volunteers to pay for their share of this. Details of this will be announced closer to the date. Typically on Sunday we finish later, at around 8pm, and so will likely order fast-food to the venue.
