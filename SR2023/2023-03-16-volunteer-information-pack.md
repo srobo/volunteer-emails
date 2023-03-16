@@ -20,9 +20,9 @@ Before you read any further, we'd recommend you [make sure you are signed up to 
 We'll be having set-up days on the Thursday and Friday before the event, there is typically no set schedule for these days, just a list of tasks to get through. These lists are big though, we need all the help we can get to ensure everything is ready in time for the competition.
 
 # Competition days
-Please aim to arrive by 8:30am for both Saturday and Sunday if you can. This is when we will brief everyone on the day. If you arrive late, please try to find me (Andy Barrett-Sprot) to catch you up, and explain your roles to you.
+Please aim to arrive by 8:30am for both the Saturday and Sunday if you can. This is when we will brief everyone on the day. If you arrive late, please try to find me (Andy Barrett-Sprot) to catch you up, and explain your roles to you.
 
-We're working out schedules for volunteers during the competition. We will assume you're available during all the timeslots you signed up for, so please make sure your responses are up-to-date! We'll soon be sending you an email with your individual roles and how to perform them, keep an eye out for it!
+We're currently still pinning down the finalized schedules for volunteers during the competition. If you signed up a while ago, please make sure the responses you had on the form are still up-to-date. Expect an email soon with your individual roles and how to perform them!
 
 # Getting to the venue
 Please check our external event page for how to get to the venue, and where to park: https://studentrobotics.org/events/sr2023/competition/
@@ -41,7 +41,7 @@ Last year the U1C bus still operated between the 'Southampton Airport Parkway' t
 Sadly we aren't able to provide Accommodation for volunteers this year. However, we are able to reimburse up to £85 total or travel and accommodation. If you urgently need a reimbursement, you can claim reimbursement in our [reimbursement claim form](https://forms.gle/ATV3UeS9Sbd2ynhv8), and mark 'this reimbursement is urgent'.
 
 ## COVID Safety
-We take COVID safety seriously, we'd like to strongly recommend volunteers wear masks, especially during set-up days, as we cannot afford a large number of volunteers quarantining themselves during the event
+We take COVID safety very seriously, we'd like to strongly recommend volunteers wear masks, especially during set-up days, as we cannot afford a large number of volunteers quarantining themselves during the event
 
 ## Food during the weekend
 We're planning on arranging for sandwiches and fruit and biscuits to be available during lunchtimes. You indicated your dietary requirements during sign-ups so we'll do our best to accommodate for you. You should also have a long enough lunch break if you want to get something specific.
