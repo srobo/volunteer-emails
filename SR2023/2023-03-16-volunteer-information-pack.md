@@ -11,7 +11,7 @@ Firstly we're so thankful that you signed up to volunteer at Student Robotics 20
 The competition is just round the corner, so I thought I'd share more detailed information about the event.
 
 # Slack
-Before you read any further, we'd recommend you [make sure you are signed up to our slack chat room](https://goo.gl/forms/Maq41MHF8CYSRVn83). We usually use slack to communicate with volunteers during the competition itself.
+Before you read any further, we'd recommend you [make sure you are signed up to our Slack chat room](https://goo.gl/forms/Maq41MHF8CYSRVn83). We usually use Slack to communicate with volunteers during the competition itself.
 
 # Safeguarding Policy
 **All volunteers are required to read the [safeguarding policy](https://opsmanual.studentrobotics.org/about-the-charity/safeguarding)**. Please ensure you have read this ahead of time, and email safeguarding@studentrobotics.org to confirm you have read and understood it.
