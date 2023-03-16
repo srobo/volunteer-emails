@@ -14,7 +14,7 @@ The competition is just round the corner, so I thought I'd share more detailed i
 Before you read any further, we'd recommend you [make sure you are signed up to our slack chat room](https://goo.gl/forms/Maq41MHF8CYSRVn83). We usually use slack to communicate with volunteers during the competition itself.
 
 # Safeguarding Policy
-**All volunteers are required to read the [safeguarding policy](https://opsmanual.studentrobotics.org/about-the-charity/safeguarding)**. Please ensure you have read this ahead of time, and e-mail safeguarding@studentrobotics.org to confirm you have read and understood it.
+**All volunteers are required to read the [safeguarding policy](https://opsmanual.studentrobotics.org/about-the-charity/safeguarding)**. Please ensure you have read this ahead of time, and email safeguarding@studentrobotics.org to confirm you have read and understood it.
 
 # Set-up days
 We'll be having set-up days on the Thursday and Friday before the event, there is typically no set schedule for these days, just a list of tasks to get through. These lists are big though, we need all the help we can get to ensure everything is ready in time for the competition.
