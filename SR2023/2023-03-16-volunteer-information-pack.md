@@ -22,7 +22,7 @@ We'll be having set-up days on the Thursday and Friday before the event, there i
 # Competition days
 Please aim to arrive by 8:30am for both the Saturday and Sunday if you can. This is when we will brief everyone on the day. If you arrive late, please try to find me (Andy Barrett-Sprot) to catch you up, and explain your roles to you.
 
-We're currently still pinning down the finalized schedules for volunteers during the competition. If you signed up a while ago, please make sure the responses you had on the form are still up-to-date. Expect an email soon with your individual roles and how to perform them!
+We're currently still pinning down the finalized schedules for volunteers during the competition. If you signed up a while ago, please make sure the responses you had on the form are still up-to-date (You should have received an email with an edit link when you initially signed up). Expect an email soon with your individual roles and how to perform them!
 
 # Getting to the venue
 Please check our external event page for how to get to the venue, and where to park: https://studentrobotics.org/events/sr2023/competition/
