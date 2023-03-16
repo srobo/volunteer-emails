@@ -44,6 +44,6 @@ Sadly we aren't able to provide Accommodation for volunteers this year. However,
 We take COVID safety very seriously, we'd like to strongly recommend volunteers wear masks, especially during set-up days, as we cannot afford a large number of volunteers quarantining themselves during the event
 
 ## Food during the weekend
-We're planning on arranging for sandwiches and fruit and biscuits to be available during lunchtimes. You indicated your dietary requirements during sign-ups so we'll do our best to accommodate for you. You should also have a long enough lunch break if you want to get something specific.
+We're planning on arranging for sandwiches and fruit and biscuits to be available during lunchtimes. If you indicated your dietary requirements during sign-ups so we'll do our best to accommodate for you. You should also have a long enough lunch break if you want to get something specific.
 
 We'll be having a meal on the Saturday evening, typically we ask for volunteers to pay for their share of this. Details of this will be announced closer to the date. Typically on Sunday we finish later, at around 8pm, and so will likely order fast-food to the venue.
