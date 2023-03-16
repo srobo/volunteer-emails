@@ -17,7 +17,7 @@ Before you read any further, we'd recommend you [make sure you are signed up to 
 **All volunteers are required to read the [safeguarding policy](https://opsmanual.studentrobotics.org/about-the-charity/safeguarding)**. Please ensure you have read this ahead of time, and email safeguarding@studentrobotics.org to confirm you have read and understood it.
 
 # Set-up days
-We'll be having set-up days on the Thursday and Friday before the event, there is typically no set schedule for these days, just a list of tasks to get through. These lists are big though, we need all the help we can get to ensure everything is ready in time for the competition.
+We'll be having set-up days on the Thursday and Friday before the event, there is typically no set schedule for these days, just a list of tasks to get through. These lists are big though, we need all the help we can get to ensure everything is ready in time for the competition. If you're available, it would be great to get your help!
 
 # Competition days
 Please aim to arrive by 8:30am for both the Saturday and Sunday if you can. This is when we will brief everyone on the day. If you arrive late, please try to find me (Andy Barrett-Sprot) to catch you up, and explain your roles to you.
