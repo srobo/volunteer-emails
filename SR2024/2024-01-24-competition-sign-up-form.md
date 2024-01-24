@@ -1,6 +1,6 @@
 ---
 to: All Volunteers
-subject: Sign up to Volunteer at SR2024
+subject: Sign up to volunteer at SR2024
 ---
 
 Hi Everyone, 
