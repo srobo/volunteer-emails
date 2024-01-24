@@ -9,7 +9,7 @@ We've opened volunteer sign-ups for the competition weekend of SR2024!
 
 The competition will take place at the University of Southampton on April 13th & 14th, with optional set-up days on the 11th & 12th. We'd love it if you could volunteer any time you can to help things run smoothly!
 
-Teams have been diligently building their robots for 6 months to match their wits against other teams at this grand finale, - and we need **you** to make it happen! 
+Teams have been diligently building their robots for 6 months to match their wits against other teams at this grand finale — and we need **you** to make it happen! 
 
 We try hard to make this event as exciting as possible. Not only for the competitors, but also the volunteers, too. We'll ensure you have a fulfilling and memorable weekend, without causing too much stress. 
 
