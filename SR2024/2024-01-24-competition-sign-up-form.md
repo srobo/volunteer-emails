@@ -17,7 +17,7 @@ Please share this sign-up form with all of your friends and family. The more peo
 
 If you're interested in attending, please sign up with the link below:
 
-[**Sign up to volunteer**](<FORM GOES HERE>)
+[**Sign up to volunteer**](https://forms.gle/TZCwbZ2XF2AXaZfo8)
 
 We'll put more details on the [event page](https://studentrobotics.org/events/sr2024/competition/) as they become available.
 
