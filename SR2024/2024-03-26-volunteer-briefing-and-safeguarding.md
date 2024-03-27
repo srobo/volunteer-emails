@@ -17,7 +17,7 @@ We're finalizing your volunteer roles for the competition. You should receive a 
 **If you can no longer attend the competition, please email me ASAP so I can reassign your roles!**
 
 ## Briefing Call
-In preparation for the competition, we'll be hosting a **volunteer briefing call** next weekend** at 8pm UK Time on Saturday the 6th** on this link:
+In preparation for the competition, we'll be hosting a **volunteer briefing call** next weekend **at 8pm UK Time on Saturday the 6th** on this link:
 
  <!--meet link censored -->
 
@@ -28,7 +28,7 @@ If you can't come to the briefing call, that's okay! The email you receive this 
 ## Safeguarding
 It's **required** for **all volunteers** to read our Safeguarding policy, **even if you've read it last year** before you are permitted to act as a volunteer for Student Robotics 2024.
 
-You **must** read it using the link below, and then confirm to us by sending an email to:  [safeguarding@studentrobotics.org](mailto:safeguarding@studentrobotics.org?subject=Safeguarding%20confirmation&body=I%2C%20YOURNAMEHERE%0A%0Acan%20confirm%20I%20have%20read%20the%20safeguarding%20policy.)
+You must read it using the link below, and then confirm to us by sending an email to:  [safeguarding@studentrobotics.org](mailto:safeguarding@studentrobotics.org?subject=Safeguarding%20confirmation&body=I%2C%20YOURNAMEHERE%0A%0Acan%20confirm%20I%20have%20read%20the%20safeguarding%20policy.)
 
 > I, YOURNAMEHERE, have read the safeguarding policy.
 
