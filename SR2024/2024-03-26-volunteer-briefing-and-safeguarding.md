@@ -17,7 +17,7 @@ We're finalizing your volunteer roles for the competition. You should receive a 
 **If you can no longer attend the competition, please email me ASAP so I can reassign your roles!**
 
 ## Briefing Call
-In preparation for the competition, we'll be hosting a **volunteer briefing call** next weekend **at 8pm UK Time on Saturday the 6th** on this link:
+In preparation for the competition, we'll be hosting a **volunteer briefing call** next weekend **at 8pm UK Time on Saturday the 6th of April** on this link:
 
  <!--meet link censored -->
 
