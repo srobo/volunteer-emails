@@ -13,4 +13,4 @@ In addition, if you'd like to provide more feedback on certain aspects of how th
 
 Thanks!
 
-- The competition team
+- The Competition Team
